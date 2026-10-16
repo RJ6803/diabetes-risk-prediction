@@ -1,6 +1,6 @@
 # Diabetes Risk Prediction Using Machine Learning
 
-🚀 Live Demo
+## Live Demo
 
 Try the application here: [Diabetes Risk Prediction Web App](https://diabetes-risk-prediction-vdj7bjrwxip624zxzpruja.streamlit.app/)
 
