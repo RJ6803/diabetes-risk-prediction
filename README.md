@@ -1,5 +1,9 @@
 # Diabetes Risk Prediction Using Machine Learning
 
+🚀 Live Demo
+
+Try the application here: [Diabetes Risk Prediction Web App](https://diabetes-risk-prediction-vdj7bjrwxip624zxzpruja.streamlit.app/)
+
 ## Overview
 This project explores diabetes-related classification using machine learning and provides an interactive Streamlit application for instant predictions.
 
